@@ -1,1 +1,10 @@
 # devolps_ac02
+Criando o repositório via interface web (print01)   
+Git clone - (print02)  
+Ls - com clone (print03)  
+Git Fecth (print04)  
+Git Checkout (print05)  
+Git Status (print07)  
+Git Add (print08)  
+Commit (print09)  
+Git Push (print10)  
